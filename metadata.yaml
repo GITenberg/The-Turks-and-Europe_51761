@@ -1,0 +1,25 @@
+_repo: The-Turks-and-Europe_51761
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Gaillard, Gaston
+    gutenberg_agent_id: '46542'
+    url: http://www.gutenberg.org/2009/agents/46542
+description: ''
+gutenberg_issued: '2016-04-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51761'
+  lccn: '22003909'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'World War, 1914-1918 -- Turkey'
+- !lcsh 'Treaty of Sèvres (1920)'
+- !lcc 'D'
+- !lcsh 'World War, 1914-1918 -- Territorial questions -- Turkey'
+- GITenberg
+title: The Turks and Europe
+url: http://www.gutenberg.org/ebooks/51761
